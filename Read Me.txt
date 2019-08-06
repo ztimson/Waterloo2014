@@ -1,0 +1,17 @@
+Here are my competition programs, I completed 3/5 (+an unworking program that I didnt have time for (#4))
+All my programs are unmodified sense I originaly codded them so you can see my raw coding skill well working fast and underpressure. The only
+things I added was the comment to walk you through my thought prosses
+
+Summary of rules:
+ - Only writen resorces are allowed to be brought in and used
+ - Every file must use file input and standard output (Names correspond (S1.java < S1.txt))
+ - 3 hours to complete as many as possible + only completed programs count
+ - some programs may be rated on efficency
+
+Notes:
+ - I doubled the second place person's score in the local area.
+
+UPDATE:
+ - My first two programs recieved full marks and completed every test
+ - My third failed misserably and because I needed a minimum of 40 points (15 points a question)
+   I could not move on to participate at waterloo
