@@ -18,4 +18,5 @@ These promgrams correspond to the problems found inside [Waterloo-2014.psd](./Wa
  - S2 recieved full points (40) & completed every test
  - S3 failed (15 points) because I was rushing to get S4 done
  - S4 didn't have time to complete
- - In hindsight, knowing I only needed to pass 3 problems to advance to nationals, I should have focused on the 3 easiest problems & ensured they all worked.
+
+In hindsight, knowing I only needed to pass 3 problems to advance to nationals, I should have focused on the 3 easiest problems & ensured they all worked instead of rushing the last 2 and it costing me both.
