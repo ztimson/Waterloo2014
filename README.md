@@ -1,7 +1,7 @@
 # Waterloo 2014
 In 2014, while I was in grade 12, I competed in Waterloo's senior programing cometition.
 
-These promgrams correspond to the problems found inside [Waterloo-2014.psd](./Waterloo-2014.psd).
+These promgrams correspond to the problems found inside [Waterloo-2014.pdf](./Waterloo-2014.pdf).
 
 ## Table of Contents
 [[_TOC_]]
