@@ -19,4 +19,4 @@ These promgrams correspond to the problems found inside [Waterloo-2014.pdf](./Wa
  - S3 only halfed worked (15 points), I rushed to move onto S4
  - S4 didn't have time to complete
 
-In hindsight, knowing I only needed to pass 3 problems to advance to nationals, I should have focused on the 3 easiest problems & ensured they all worked instead of rushing the last 2 and it costing me both.
+In hindsight, knowing I only needed to pass 3 problems to advance to nationals, I should have focused on the 3 easiest problems & ensured they all worked instead of rushing through all of the problems & ending up with two half-complete.
