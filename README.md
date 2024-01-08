@@ -3,7 +3,7 @@
   <br />
 
   <!-- Logo -->
-  <img src="https://git.zakscode.com/repo-avatars/2b4ee6ba1f2e2618bf7694e4a52fb56d1d0ea6abafa2dcbe496ab786b86d5a76" alt="Logo" width="200" height="200">
+  <img src="https://git.zakscode.com/repo-avatars/a01fb323d258d636e34b2452a55959263e06e7225034d69b9093cd1073a96f8d" alt="Logo" width="200" height="200">
 
   <!-- Title -->
   ### Waterloo-2014
