@@ -1,4 +1,4 @@
-// Zak Timson
+package src;// Zak Timson
 // Uses Tint.java (Object)
 
 /* I didn't finish this program because I got stuck up on the first program trying to fix a bug so I ran out of time.
@@ -21,7 +21,7 @@ public class S4 {
 
 	// Main method
 	public static void main(String[] args) throws FileNotFoundException {
-	
+
 		// Load dummy data
 		final String dir = new File(" ").getAbsolutePath().trim();
 		FileReader fr = new FileReader(dir + "S4.txt");
@@ -45,7 +45,7 @@ public class S4 {
 					Integer.parseInt(stats[1]), Integer.parseInt(stats[2]),
 					Integer.parseInt(stats[3]), Integer.parseInt(stats[4]));
 		}
-		
+
 		// Loop through coordinates
 		for (int x = 0; x < 1000000000; x++){ // X coordinate
 			int totalTint = 0; // Reset the total tint on this coordinate

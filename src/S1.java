@@ -1,4 +1,4 @@
-// Zak Timson
+package src;// Zak Timson
 
 // Libraries
 import java.io.File;
@@ -17,7 +17,7 @@ public class S1 {
 		// A dynamic array might be nice
 		ArrayList list = new ArrayList();
 
-		// Import dummy data from S1.txt
+		// Import dummy data from src.S1.txt
 		final String dir = new File(" ").getAbsolutePath().trim();
 		FileReader fr = new FileReader(dir + "S1.txt");
 		Scanner scan = new Scanner(fr);
@@ -40,12 +40,12 @@ public class S1 {
 		for (int i = 0; i < m; i++) {
 			// Remember the size of the dynamic array during this pass
 			int size = list.size();
-			
+
 			// Instead of looping through and testing each number in the array
 			// some preliminary math can determine the exact number of passes
 			// needed to increase the efficiency.
 			for (int x = 0; x < size / remove[i]; x++) {
-			
+
 				/* This next part is where a quarter of the competition went well
 				 * I over thought how to solve this bug. Because I am removing,
 				 * lets say person 5 and 10, as soon as I remove person 5 person 10

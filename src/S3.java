@@ -1,4 +1,4 @@
-// Zak Timson
+package src;// Zak Timson
 
 // Libraries
 import java.io.File;
@@ -12,7 +12,7 @@ public class S3 {
 
 	// Main method
 	public static void main(String[] args) throws FileNotFoundException {
-	
+
 		// Load dummy data
 		final String dir = new File(" ").getAbsolutePath().trim();
 		FileReader fr = new FileReader(dir + "S3.txt");
